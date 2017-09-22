@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cafe_login"
+    tools:context="com.example.merve.neredeyiyelim.CafeAnaSayfa"
+    android:weightSum="1">
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_menuadi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        >
+
+    <EditText
+        android:id="@+id/editTextMenuAdi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/white"
+        android:hint="Menu Adı" />
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_fiyatı"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        >
+    <EditText
+        android:id="@+id/editTextFiyati"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/white"
+        android:hint="Fiyat" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/buttonKaydet"
+        android:layout_width="150dp"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button_ok"
+        android:text="Kaydet" />
+
+    <ListView
+        android:id="@+id/listViewMenuler"
+        android:layout_width="match_parent"
+        android:layout_height="282dp"
+        android:padding="10dp"
+        android:layout_marginTop="10dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="6dp"
+        android:src="@drawable/logout"
+        android:layout_weight="0.5" />
+</LinearLayout>

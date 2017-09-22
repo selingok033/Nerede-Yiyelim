@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/anim/abc_slide_out_top.xml"
+    }
+]

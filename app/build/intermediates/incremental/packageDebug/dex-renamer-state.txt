@@ -1,0 +1,7 @@
+#Fri Sep 22 15:33:00 EEST 2017
+base.0=/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c704bbed2adb1880d16fd70a391f3b06b2baec91
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_360a12cad8222380150353e9ce76fce41b9c6cdf/classes.dex
+base.1=/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_360a12cad8222380150353e9ce76fce41b9c6cdf
+file.0=/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c704bbed2adb1880d16fd70a391f3b06b2baec91/classes.dex

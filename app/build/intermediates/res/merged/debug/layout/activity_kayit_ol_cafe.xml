@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/cafe_login"
+    android:padding="20dp"
+    tools:context="com.example.merve.neredeyiyelim.KayitOlCafe">
+
+
+    <TextView
+        android:id="@+id/textViewCafeKayit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff5252"
+        android:inputType="textPersonName"
+        android:text="Kayıt Formu"
+        android:textColor="@android:color/white"
+        android:textSize="30dp"
+        android:paddingLeft="10dp"
+        android:textStyle="bold"
+        />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_adi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        >
+    <EditText
+        android:id="@+id/editTextCafeAdi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Cafe Adı" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+    <EditText
+        android:id="@+id/editTextMail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Mail" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_sifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+    <EditText
+        android:id="@+id/editTextSifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="Sifre" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_adres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+    <EditText
+        android:id="@+id/editTextAdres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:hint="Adres"/>
+
+   </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/buttonKayitOl"
+        android:layout_width="200dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button_shape"
+        android:text="Kaydol" />
+
+
+</LinearLayout>

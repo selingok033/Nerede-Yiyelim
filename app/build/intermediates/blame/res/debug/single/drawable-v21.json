@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

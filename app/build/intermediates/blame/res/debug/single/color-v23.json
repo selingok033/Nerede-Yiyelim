@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

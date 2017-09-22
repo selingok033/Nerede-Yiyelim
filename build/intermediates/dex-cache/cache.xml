@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/c590611a424690f52fc59e33843257759021ed6c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_915604f30bee1cf3972f667903c6fb488ae5cc23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/1bdfa2c8a9a82b031537c925170bf72c367f397e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eeca9100fee2d7aa64f5b336914103afeb72658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/875bc6e31323885a9be57f003e24865908dc50f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4946a72cb0c2ade1ae6441772ae7901e06666fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/1eb295a7ac95de598f258ac20dbb859963c54904/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c777a28fcb681759938bbffe7712bc2dcc0c27bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/26644cbf2a06d878b6cea0d82561749c8d45c0c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7498ca11cf45edc55eba8e4b89a5ebaac967a96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/4c22630baaca95154997b1c9398c445df92c131e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60a0ab4077bfdf04ddda4ef483f4db98a96da083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_029d89d1b6040b7609aa6c730cacbdd158fbeae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="996a6a99553a8d99b7755b2859027b3038c0f230">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c704bbed2adb1880d16fd70a391f3b06b2baec91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/c590611a424690f52fc59e33843257759021ed6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b469ce364fdaa07266c4a1daa6719ec5b084981d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/875bc6e31323885a9be57f003e24865908dc50f1/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_453175c46809771718c71e3dca5ddd195e12c0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/2478af0a351d1cc0bc426ae3fde001c5180d98e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f54eb40dd8ac63af1563d7e66347e50a7e71794/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/62788c705bcd40c1d28dd0d8e6c60db336af65f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6788bf231362cd63b2bbf1d44b4cc4894804c3d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/caf1b71d3e6d8a6c58049362f5a4356bfcbf2604/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_962ea654e73338c6054dc9363fbd541d39d026f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_360a12cad8222380150353e9ce76fce41b9c6cdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/caf1b71d3e6d8a6c58049362f5a4356bfcbf2604/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5eb34398075dc8e1225be9db789f3cd00ae5119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/573e2d2fcea1b7deca086faf64e5b42091441e8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7565b70843f7dbab11d700044033d9bb502d044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/cb523d827c9cedf6ca432ed8e7f1035e88a2f1c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_527d498a072919c8c896cd0e3b0cac9831a99afb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/4c22630baaca95154997b1c9398c445df92c131e/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_bb500f83332e92e2ed22d80368e66a92bb00681c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/68512b92aa39b7ed80f5f9bb11ee3554127c8d8c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0bac5658c553ae4be57819d04df5aaf07498d033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/.android/build-cache/68512b92aa39b7ed80f5f9bb11ee3554127c8d8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91e071cd7c8214ee4b0015b2afff3978314658c5/classes.dex" />
+    </item>
+
+</items>

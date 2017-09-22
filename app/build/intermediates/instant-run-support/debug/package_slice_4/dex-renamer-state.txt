@@ -1,0 +1,4 @@
+#Fri Sep 22 15:00:55 EEST 2017
+base.0=/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/media/selin/SELİN/NeredeYiyelim-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

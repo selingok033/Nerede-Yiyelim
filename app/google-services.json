@@ -1,0 +1,324 @@
+{
+  "project_info": {
+    "project_number": "521728456789",
+    "firebase_url": "https://not-defterim-74230.firebaseio.com",
+    "project_id": "not-defterim-74230",
+    "storage_bucket": "not-defterim-74230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:7b43e6857c4bf5f0",
+        "android_client_info": {
+          "package_name": "com.example.merve.notdefterim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:5fd6b04d10ccb6ff",
+        "android_client_info": {
+          "package_name": "com.example.merve.tellme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:bb3312fa9436f47b",
+        "android_client_info": {
+          "package_name": "com.example.merve.quiztest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-t8iphc384td5dtbctkh0h99ap5snv3k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merve.quiztest",
+            "certificate_hash": "ad89976ee8cf579088b00f01feaa81325fa1e188"
+          }
+        },
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:ae678aaf3d380780",
+        "android_client_info": {
+          "package_name": "com.example.merve.chatuygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:97fba92b4189962f",
+        "android_client_info": {
+          "package_name": "com.example.merve.gyk_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-6k43erub0oogqeiaponnnbjodpc5u9va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merve.gyk_application",
+            "certificate_hash": "ad89976ee8cf579088b00f01feaa81325fa1e188"
+          }
+        },
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:958cffb79d6520e4",
+        "android_client_info": {
+          "package_name": "com.example.merve.sohbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-j05tli5de1r287dr9ln2qrvhbbrdt9p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merve.sohbet",
+            "certificate_hash": "ad89976ee8cf579088b00f01feaa81325fa1e188"
+          }
+        },
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:745f4fcde78970e1",
+        "android_client_info": {
+          "package_name": "com.example.merve.gyk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-ti19bhp6dn0g959vjvft2il0t996v92n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merve.gyk_app",
+            "certificate_hash": "ad89976ee8cf579088b00f01feaa81325fa1e188"
+          }
+        },
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521728456789:android:3c5c7a6b00d48ac4",
+        "android_client_info": {
+          "package_name": "com.example.merve.neredeyiyelim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521728456789-l0elviq0b85afo2cs6tq69pcukn4m7b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merve.neredeyiyelim",
+            "certificate_hash": "ad89976ee8cf579088b00f01feaa81325fa1e188"
+          }
+        },
+        {
+          "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO_smC8tUtxLeDVfjykGI2GsvRvZXUlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521728456789-je4kqj40gqoosjelguflm3u1608sfr7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
